@@ -16,7 +16,3 @@ It explains concepts behind blockchain technology such as:
 - `blockchain.py` – Handles blockchain logic, mining, and validation
 - `app.py` – Flask API to interact with the blockchain
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python app.py
